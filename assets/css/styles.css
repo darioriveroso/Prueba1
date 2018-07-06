@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(249, 255, 254);
+}
+
+.img-logo{
+    height: 50px;
+    width: 110px;
+}
+
+.carousel1{
+    height: 400px;
+    background-color: aquamarine;
+    
+}
+
+.nino1{
+    height: 400px;
+    position: absolute;
+    width: 100%
+    
+}
+
+.nino2{
+    height: 400px;
+    position: absolute;
+    width: 100%
+
+}
+
+.nino3{
+    height: 400px;
+    position: absolute;
+    width: 100%
+ 
+}
+
+.box{
+    height: 70px;
+    background-color: antiquewhite;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: brown;
+    }
+.box1{
+    height: 150;
+    border-style: solid;
+    border-width: 1px;
+}
+.box2{
+    height: 150;
+    border-style: solid;
+    background-color: rgb(221, 236, 255);
+    border-width: 1px;
+}
+
+.box4{
+    height: 218px;
+    background-color: antiquewhite;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: brown;
+    }
+.footer{
+    background-color: #f8f9fa;
+    color: black;
+    padding: 20px;
+    font-size: 15px;
+    height: 350px;
+}
+.box3{
+    height: 200px;
+    width: 350px;
+}
+
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
